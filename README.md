@@ -1,2 +1,2 @@
-# audreylemonwest.com
-Moms resume website
+# http://www.audreylemonwest.com/
+## Resume website for my mom 
